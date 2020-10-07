@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I’m currently working on the Cherenkov Telescope Array 🔭 
+I’m currently working on the [Cherenkov Telescope Array](https://www.cta-observatory.org/) 🔭 
 
 More info on what I do: [vuillaut.github.io](https://vuillaut.github.io/)
 
