@@ -3,7 +3,7 @@
 
 I’m currently working on the Cherenkov Telescope Array 🔭 
 
-More info: vuillaut.github.io
+More info on what I do: [vuillaut.github.io](https://vuillaut.github.io/)
 
 
 <!--
