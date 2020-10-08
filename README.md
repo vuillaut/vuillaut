@@ -5,6 +5,7 @@ I’m currently working on the [Cherenkov Telescope Array](https://www.cta-obser
 
 More info on what I do: [vuillaut.github.io](https://vuillaut.github.io/)
 
+![](Quasar-morty.jpg)
 
 <!--
 **vuillaut/vuillaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
