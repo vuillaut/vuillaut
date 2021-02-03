@@ -5,6 +5,10 @@ I’m currently working on the [Cherenkov Telescope Array](https://www.cta-obser
 
 More info on what I do: [vuillaut.github.io](https://vuillaut.github.io/)
 
+[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-5686-2078)
+[![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=2aDUzvoAAAAJ&hl=fr)
+
+
 ![](Quasar-morty.jpg)
 
 <!--
